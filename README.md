@@ -48,7 +48,7 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxenceblanc&show_icons=true&hide=prs,issues&count_private=true&title_color=ff005d&icon_color=ff4d00" alt="heathershein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heathershein&show_icons=true&hide=prs,issues&count_private=true&title_color=ff005d&icon_color=ff4d00" alt="heathershein" /></p>
 
 
 
