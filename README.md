@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://giantbomb1.cbsistatic.com/uploads/scale_small/0/3693/869726-ippo1.jpg" alt="HeatherShein" /> 
+  <img src="https://komarev.com/ghpvc/?username=heathershein" alt="heathershein" /> 
 </p>
 
 <h3 align="center"> :fire: Colin Davidson :fire: </h3>
