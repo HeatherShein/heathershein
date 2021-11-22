@@ -17,9 +17,9 @@
 -->
 
 
-## I'm a Software Engineer student specialized in Artificial Intelligence
+## I'm a Software Engineer specialized in Artificial Intelligence
 
-- :blush: I’m currently in my final year of studies and looking for an internship in Japan :jp: or Iceland!
+- :blush: I just graduated from an engineering school !
 - :snake: Python/OOP - ML - DL enthousiast
 - :video_game: I love solving problems and making video games
 - :earth_africa: Exploring the world, swimming and climbing :swimmer:
